@@ -1,0 +1,15 @@
+.starProduct{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 1vmax auto;
+}
+
+
+.starProduct img{
+    transition: all 0.5s;
+}
+
+.starProduct img:hover{
+    box-shadow: 6px 6px 15px rgba(33, 30, 30, 0.363);
+}
